@@ -18,5 +18,5 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liviaalvzs&show_icons=true&locale=en" alt="liviaalvzs" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=liviaalvzs&show_icons=true&locale=en" alt="liviaalvzs" /></p>
 
