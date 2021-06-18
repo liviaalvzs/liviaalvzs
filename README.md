@@ -16,7 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liviaalvzs&show_icons=true&locale=en&layout=compact" alt="liviaalvzs" /></p>
 
-<br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=liviaalvzs&show_icons=true&locale=en" alt="liviaalvzs" /></p>
-
