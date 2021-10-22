@@ -1,8 +1,8 @@
-### Oii 👋, Eu sou a Lívia!
+### Oii 👋, eu sou a Lívia!
 
 👨‍💻 Sou formada Técnica em Informática pela **Etec Jardim Ângela** 
 
-💬 Atualmente eu estou cursando **Análise e Desenvolvimento de Sistemas**
+💬 Atualmente eu estou cursando **Análise e Desenvolvimento de Sistemas**, na **Faculdade Impacta** 
 
 <h3 align="left">Redes Sociais: </h3>
 <p align="left">
