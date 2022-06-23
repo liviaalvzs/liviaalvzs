@@ -4,10 +4,10 @@
 
 💬 Atualmente eu estou cursando **Análise e Desenvolvimento de Sistemas**, na **Faculdade Impacta** 
 
-<h3 align="left">Redes Sociais: </h3>
+<h3 align="left">Fale comigo: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/liviaalvess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liviaalvess" height="30" width="40" /></a>
-<a href="https://instagram.com/liviaalvzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liviaalvzs" height="30" width="40" /></a>
+✉️ liv.alvessantana@gmail.com
 </p>
 
 <h3 align="left">Linguagens que estou me aperfeiçoando: </h3>
