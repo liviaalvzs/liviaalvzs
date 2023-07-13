@@ -1,10 +1,3 @@
-<h1 align="center">Oii 👋, Eu sou a Lívia</h1>
-
-
-💬 Eu estou cursando **Análise e Desenvolvimento de Sistemas**, na **Faculdade Impacta** 
-
-🤍 Atualmente sou Estagiária de Desenvolvimento no **Grupo Safira**
-
 🐍 Regularmente escrevo artigos sobre Python no [**Medium**](https://medium.com/@liviaalvzs) 
 
 ### 📫 Você pode me encontrar em: 
