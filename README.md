@@ -5,7 +5,4 @@ I am a Python developer curious about machine learning, data analysis, and data 
 [![GitHub followers](https://img.shields.io/github/followers/liviaalvzs?style=social)](https://github.com/liviaalvzs)
 <a href="https://www.linkedin.com/in/liviaalvess/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{liviaalvzs}/count.svg" alt="liviaalvzs :: Visitor's Count" style="filter: hue-rotate(180deg) contrast(100%) saturate(50%);">
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liviaalvzs&show_icons=true&locale=en&layout=compact&theme=merko" alt="ovi" />
